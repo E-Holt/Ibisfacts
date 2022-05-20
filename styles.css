@@ -16,3 +16,45 @@ h1 {
     display: block;
     margin: auto;
 }
+
+header {
+    background-color: cornflowerblue;
+}
+
+footer {
+    text-align:center;
+    background-color: cornflowerblue;
+}
+
+section {
+    margin: 5vw;
+    padding:5vw;
+    border-radius: 20px;
+    background-color: aquamarine;
+}
+
+#ibis_pics {
+    background-color: darkorange;
+}
+
+p {
+    margin-top: 1vw;
+}
+
+ul {
+    margin-left: 2vw;
+}
+
+img {
+    width: 49%;
+    display: inline-block;
+    position: relative;
+}
+
+#img1 {
+    top: -36px;
+}
+
+#img4 {
+    top: -380px;
+}
